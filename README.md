@@ -1,5 +1,5 @@
 > Last update: May 2026
-# Informatica 3-4 2026
+# Informatica 3-4
 
 In this class, students will learn the necessary skills to start their computer science journey by learning the **C programming language**.
 
